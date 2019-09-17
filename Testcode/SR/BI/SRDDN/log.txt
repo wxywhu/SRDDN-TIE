@@ -1,0 +1,5 @@
+
+Evaluation:
+[MyImage x4]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 2.55s, ave time: 0.51s
+
